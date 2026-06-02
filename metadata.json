@@ -1,0 +1,6 @@
+{
+  "name": "Chat with Love",
+  "description": "A playful free chat app with end-to-end encryption, video calling requests, and stickers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
